@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parcial_v2</string>
+    <string name="action_insert_dummy_data">Buscar cancion</string>
+    <string name="action_save_music">insert in my playlist</string>
+</resources>
